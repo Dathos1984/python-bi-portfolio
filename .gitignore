@@ -1,0 +1,96 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ─── Virtual Environments ─────────────────────────────────────────────────────
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ─── Environment / Secrets ────────────────────────────────────────────────────
+*.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# ─── Jupyter Notebooks ────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── Data Files (large / sensitive) ──────────────────────────────────────────
+# Uncomment the formats you do NOT want to track:
+# *.csv
+# *.parquet
+# *.json
+# *.xlsx
+# *.xls
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# ─── Airflow ──────────────────────────────────────────────────────────────────
+airflow/logs/
+airflow/plugins/__pycache__/
+airflow.db
+airflow.cfg
+webserver_config.py
+unittests.cfg
+.airflow/
+
+# ─── AWS ──────────────────────────────────────────────────────────────────────
+.aws/
+aws_credentials
+*.aws
+
+# ─── Snowflake ────────────────────────────────────────────────────────────────
+snowflake_credentials.json
+snowflake.cfg
+
+# ─── dbt (analytics-engineering) ─────────────────────────────────────────────
+analytics-engineering/target/
+analytics-engineering/dbt_packages/
+analytics-engineering/logs/
+analytics-engineering/.dbt/
+
+# ─── IDEs & Editors ───────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# ─── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── Logs & Temp ──────────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+*.cache
+.cache/
