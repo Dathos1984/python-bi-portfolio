@@ -1,0 +1,6 @@
+import soundcard as sc
+
+print("--- TUS DISPOSITIVOS DE SALIDA (SPEAKERS) ---")
+# Listar todos los dispositivos que pueden reproducir audio
+for i, micosistema in enumerate(sc.all_speakers()):
+    print(f"Índice: {i} | Nombre: {micosistema.name}")

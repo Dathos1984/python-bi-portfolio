@@ -1,0 +1,441 @@
+{
+    "items": [
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0pFExKST1wGbE6DBSNK6ox"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0pFExKST1wGbE6DBSNK6ox",
+                            "id": "0pFExKST1wGbE6DBSNK6ox",
+                            "name": "Saratoga",
+                            "type": "artist",
+                            "uri": "spotify:artist:0pFExKST1wGbE6DBSNK6ox"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6kAnqckcV55w5HzDRp3Chm"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6kAnqckcV55w5HzDRp3Chm",
+                    "id": "6kAnqckcV55w5HzDRp3Chm",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b64b0365f1a62235ae1884ee",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b64b0365f1a62235ae1884ee",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b64b0365f1a62235ae1884ee",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Secretos y Revelaciones",
+                    "release_date": "2009-07-24",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6kAnqckcV55w5HzDRp3Chm"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0pFExKST1wGbE6DBSNK6ox"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0pFExKST1wGbE6DBSNK6ox",
+                        "id": "0pFExKST1wGbE6DBSNK6ox",
+                        "name": "Saratoga",
+                        "type": "artist",
+                        "uri": "spotify:artist:0pFExKST1wGbE6DBSNK6ox"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225720,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/43hEeJm3rWbbWiIQRfLwvm"
+                },
+                "href": "https://api.spotify.com/v1/tracks/43hEeJm3rWbbWiIQRfLwvm",
+                "id": "43hEeJm3rWbbWiIQRfLwvm",
+                "is_local": false,
+                "name": "No Sufrire Jamas por Ti",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:43hEeJm3rWbbWiIQRfLwvm"
+            },
+            "played_at": "2026-06-24T16:46:10.011Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EYkqdzj48dyYq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1EYkqdzj48dyYq"
+                },
+                "uri": "spotify:playlist:37i9dQZF1EYkqdzj48dyYq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3SEztK9fNxg81qZ8qETGNT",
+                            "id": "3SEztK9fNxg81qZ8qETGNT",
+                            "name": "Yeison Jimenez",
+                            "type": "artist",
+                            "uri": "spotify:artist:3SEztK9fNxg81qZ8qETGNT"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6tYuW96NhiYI3sAxEDsqK4",
+                            "id": "6tYuW96NhiYI3sAxEDsqK4",
+                            "name": "Pasabordo",
+                            "type": "artist",
+                            "uri": "spotify:artist:6tYuW96NhiYI3sAxEDsqK4"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0eLaG1dlbjNnPX5nKDM1wR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0eLaG1dlbjNnPX5nKDM1wR",
+                    "id": "0eLaG1dlbjNnPX5nKDM1wR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27327580c992d551b737ff6b2b5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0227580c992d551b737ff6b2b5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485127580c992d551b737ff6b2b5",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Hasta La Madre",
+                    "release_date": "2023-06-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:0eLaG1dlbjNnPX5nKDM1wR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3SEztK9fNxg81qZ8qETGNT",
+                        "id": "3SEztK9fNxg81qZ8qETGNT",
+                        "name": "Yeison Jimenez",
+                        "type": "artist",
+                        "uri": "spotify:artist:3SEztK9fNxg81qZ8qETGNT"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6tYuW96NhiYI3sAxEDsqK4",
+                        "id": "6tYuW96NhiYI3sAxEDsqK4",
+                        "name": "Pasabordo",
+                        "type": "artist",
+                        "uri": "spotify:artist:6tYuW96NhiYI3sAxEDsqK4"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 158160,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1nDvFYTsaQwxt5CTk7LJ5E"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1nDvFYTsaQwxt5CTk7LJ5E",
+                "id": "1nDvFYTsaQwxt5CTk7LJ5E",
+                "is_local": false,
+                "name": "Hasta La Madre",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1nDvFYTsaQwxt5CTk7LJ5E"
+            },
+            "played_at": "2026-06-24T16:42:26.328Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EYkqdzj48dyYq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1EYkqdzj48dyYq"
+                },
+                "uri": "spotify:playlist:37i9dQZF1EYkqdzj48dyYq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4uqzzJg3ww5eH7IgGV7DMT",
+                            "id": "4uqzzJg3ww5eH7IgGV7DMT",
+                            "name": "Bunbury",
+                            "type": "artist",
+                            "uri": "spotify:artist:4uqzzJg3ww5eH7IgGV7DMT"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0nhWmmOEqhnEMWB36f3YvY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0nhWmmOEqhnEMWB36f3YvY",
+                    "id": "0nhWmmOEqhnEMWB36f3YvY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273419923d3337876634c7bc66b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02419923d3337876634c7bc66b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851419923d3337876634c7bc66b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "De un siglo anterior",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:0nhWmmOEqhnEMWB36f3YvY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4uqzzJg3ww5eH7IgGV7DMT",
+                        "id": "4uqzzJg3ww5eH7IgGV7DMT",
+                        "name": "Bunbury",
+                        "type": "artist",
+                        "uri": "spotify:artist:4uqzzJg3ww5eH7IgGV7DMT"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251408,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1Tb5lPD9zGvEAkfLcmv0zf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1Tb5lPD9zGvEAkfLcmv0zf",
+                "id": "1Tb5lPD9zGvEAkfLcmv0zf",
+                "is_local": false,
+                "name": "Un Brindis al Sol",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1Tb5lPD9zGvEAkfLcmv0zf"
+            },
+            "played_at": "2026-06-24T16:39:51.850Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EYkqdzj48dyYq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1EYkqdzj48dyYq"
+                },
+                "uri": "spotify:playlist:37i9dQZF1EYkqdzj48dyYq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/69UypehHabb68utzfjAVlV",
+                            "id": "69UypehHabb68utzfjAVlV",
+                            "name": "Kany García",
+                            "type": "artist",
+                            "uri": "spotify:artist:69UypehHabb68utzfjAVlV"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1nwWnsVZSWIpMebokmGwdo",
+                    "id": "1nwWnsVZSWIpMebokmGwdo",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2736f7b60f8c5b8da0a21ce1242",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e026f7b60f8c5b8da0a21ce1242",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048516f7b60f8c5b8da0a21ce1242",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GARCÍA",
+                    "release_date": "2024-05-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1nwWnsVZSWIpMebokmGwdo"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/69UypehHabb68utzfjAVlV",
+                        "id": "69UypehHabb68utzfjAVlV",
+                        "name": "Kany García",
+                        "type": "artist",
+                        "uri": "spotify:artist:69UypehHabb68utzfjAVlV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 163770,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2TweCNUiC4VVceGtQ5LuTc"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2TweCNUiC4VVceGtQ5LuTc",
+                "id": "2TweCNUiC4VVceGtQ5LuTc",
+                "is_local": false,
+                "name": "De Bien a Mal",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2TweCNUiC4VVceGtQ5LuTc"
+            },
+            "played_at": "2026-06-24T16:36:15.450Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EYkqdzj48dyYq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1EYkqdzj48dyYq"
+                },
+                "uri": "spotify:playlist:37i9dQZF1EYkqdzj48dyYq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3hMTlMf2UGZTeP6DSUUl09"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3hMTlMf2UGZTeP6DSUUl09",
+                            "id": "3hMTlMf2UGZTeP6DSUUl09",
+                            "name": "Warcry",
+                            "type": "artist",
+                            "uri": "spotify:artist:3hMTlMf2UGZTeP6DSUUl09"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6NCohhOl8vJaXZDEZavXge"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6NCohhOl8vJaXZDEZavXge",
+                    "id": "6NCohhOl8vJaXZDEZavXge",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273475bc7ce1e04d60802958706",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02475bc7ce1e04d60802958706",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851475bc7ce1e04d60802958706",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Daimon",
+                    "release_date": "2022-10-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6NCohhOl8vJaXZDEZavXge"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3hMTlMf2UGZTeP6DSUUl09"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3hMTlMf2UGZTeP6DSUUl09",
+                        "id": "3hMTlMf2UGZTeP6DSUUl09",
+                        "name": "Warcry",
+                        "type": "artist",
+                        "uri": "spotify:artist:3hMTlMf2UGZTeP6DSUUl09"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 270880,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6rvdP2ZxHR98OKzsgXfYOT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6rvdP2ZxHR98OKzsgXfYOT",
+                "id": "6rvdP2ZxHR98OKzsgXfYOT",
+                "is_local": false,
+                "name": "Condenado",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:6rvdP2ZxHR98OKzsgXfYOT"
+            },
+            "played_at": "2026-06-24T16:33:51.424Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EYkqdzj48dyYq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1EYkqdzj48dyYq"
+                },
+                "uri": "spotify:playlist:37i9dQZF1EYkqdzj48dyYq"
+            }
+        }
+    ],
+    "next": "https://api.spotify.com/v1/me/player/recently-played?before=1782318831424&limit=5",
+    "cursors": {
+        "after": "1782319570011",
+        "before": "1782318831424"
+    },
+    "limit": 5,
+    "href": "https://api.spotify.com/v1/me/player/recently-played?limit=5"
+}
